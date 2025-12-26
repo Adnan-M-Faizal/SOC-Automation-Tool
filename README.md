@@ -18,7 +18,7 @@ A Python-based Security Orchestration, Automation, and Response (SOAR) platform 
 ### ⚙️ How to Run
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/Adnan-M-Faizal/SOC-Automation-Tool.git](https://github.com/Adnan-M-Faizal/SOC-Automation-Tool.git)
+    git clone  https://github.com/Adnan-M-Faizal/SOC-Automation-Tool.git
     ```
 2.  Install dependencies:
     ```bash
