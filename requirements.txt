@@ -1,0 +1,11 @@
+# --- Dashboard UI & Interface ---
+streamlit==1.52.2
+
+# --- Data Processing & Analysis ---
+pandas==2.3.3
+
+# --- Synthetic Data Generation (Simulation) ---
+Faker==39.0.0
+
+# --- API & Network Requests (VirusTotal) ---
+requests==2.32.5
